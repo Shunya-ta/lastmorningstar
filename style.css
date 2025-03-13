@@ -1,0 +1,125 @@
+body {
+	color: black;
+	background: #FAD7A0;
+
+	width: 80%;
+	text-align: justify;
+	margin-right: auto;
+	margin-left: auto;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+.buddha {width: 100%
+}
+
+.group_one {
+	background: #D5F5E3;
+	text-align: center;
+	margin-bottom: 10px;
+	border-radius: 5px;
+}
+
+.group_two {
+	background: #D5F5E3;
+	text-align: center;
+	border-radius: 5px;
+}
+
+.taster {
+	background: #D5F5E3;
+	text-align: center;
+	border-radius: 5px;
+	margin-top: 20px;
+}
+
+
+.contact {
+	background: #D5F5E3;
+	text-align: center;
+	border-radius: 5px;
+}
+
+.quotes {
+	margin-bottom:35px;
+}
+.sitara {
+	display: block;
+	margin: 0 auto;
+	border-radius: 10px;
+	width: 50%;
+}
+
+h1, h2, h4 {
+	text-align: center;
+}
+
+
+
+@media only screen and (min-width: 768px) {
+
+body {
+	color: black;
+	background: #FAD7A0;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: justify;
+}
+
+.buddha {
+	width: 600px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.group_one {
+	background: #D5F5E3;
+	text-align: center;
+	margin-bottom: 10px;
+	border-radius: 5px;
+}
+
+.group_two {
+	background: #D5F5E3;
+	text-align: center;
+	border-radius: 5px;
+}
+
+.taster {
+	background: #D5F5E3;
+	text-align: center;
+	border-radius: 5px;
+	margin-top: 20px;
+}
+
+.contact {
+	background: #D5F5E3;
+	text-align: center;
+	border-radius: 5px;
+}
+
+.quotes {
+	margin-bottom:35px;
+}
+h1 {
+	text-align: center;
+	font-size:60px;
+}
+
+h2 {
+	text-align: center;
+}
+h4 {
+	text-align: center;
+	margin-top:-40px;
+}
+
+.sitara {
+	float: left;
+	width: 250px;
+	margin-right: 20px;
+	border-radius: 10px
+}
+}
